@@ -1,0 +1,57 @@
+Explicacion de los puntos.
+
+3.4. No deberá tener problemas en el instalador ya que se seleccionarán las opciones por defecto. 
+
+Haga clicken cada una de las características a instalar e indique que es lo que realizarán al ser instaladas:
+
+-Node.js runtime: Es la pila de software responsable de instalar el código de su servicio web y sus dependencias y de ejecutar su servicio.
+Ver:Imagenes/Captura1.png
+
+-npm package manager: Es un gestor de paquetes, el cual hará más fáciles nuestras vidas al momento de trabajar con Node, ya que gracias a él podremos tener cualquier librería disponible con solo una línea de código, npm nos ayudará a administrar nuestros módulos, distribuir paquetes y agregar dependencias de una manera sencilla.
+Ver:Imagenes/Captura2.png
+
+-online documentation shortcuts: Agregue entradas de menú de inicio que vinculen la documentación en línea para los sitios web node.js y node.js
+Ver:Imagenes/Captura3.png
+
+-Add to PATH: Agrega Node.js, npm y los módulos que fueron instalados globalmente por npm a la variable de entorno PATH
+Ver:Imagenes/Captura4.png
+---------------------------------------------------------------------
+5.4.Verificamos en la consola el resultado
+5.5.Anote sus conclusiones de lo que se acaba de realizar.Para finalizar la actividad del servidor, debe presionar Ctrl + C
+A traves de lo mostrado ingresamos y creamos el archivo y al momento de mostrar los resultados en la consola nosotros se vio que solo se mostro el resultado de la misma y que en el navegador demoraba demasiado tiempo a tal punto de que no funcionaba.
+
+---------------------------------------------------------------------------------
+
+5.8.Anote sus observaciones y mencione en que se diferencia de la versión anterior del archivo.
+En la consola cmd, vemos quye una vez ingresado al localhost podemos ver que esta empieza a mostrar el mensaje de "Conexion entrante" de lo cual en respuesta en el localhost se puede ver que queda impresa "Hola mundo!"
+Ver:Imagenes/Captura6.png
+--------------------------------------------------------------------------
+6.3.Ejecútelo y anote sus observaciones.
+Ejecutamos el archivo web.js del cualeste nos abre un servidor de lo cual ejecuta el archivo en conjunto con el archivo index.html de lo cual al ir a localhost vemos que se ejecuta el archivo .html con el contenido del mismo.
+Ver:Imagenes/Captura9.PNG
+----------------------------------------------------------------------------
+6.5.Busque en Internet la diferencia entre los comandos readFileSyncy readFiley explique cuál es la diferencia entre ambos.
+
+fs.readFile recupera una llamada que responde a la respuesta. Envíe como lo ha mostrado - bien. Si simplemente reemplaza eso con fs.readFileSync , debe tener en cuenta que no recibe una devolución de llamada, por lo que su devolución de llamada, que responde a la llamada, nunca se llamará a la llamada y, por lo tanto, la respuesta nunca finalizará y se agotará el tiempo de espera.
+----------------------------------------------------------------------
+7.3.Al acceder a la URL deberíamos tener un error en la consola. Indique cuál es, soluciónelo y adjunte una explicación de que es lo que sucede.
+
+Agregamos en la definicion de variables el "arreglo_parametros" por lo cual este era el unico que no estaba definido y hacia que el script no funcionara
+Ver:Imagenes/Captura12 solucion.PNG
+-------------------------------------------------------------------------
+7.4.Ahora acceda a la URL de nuestro servidor pero agregando lo siguiente a la dirección
+	http://localhost:8080/?nombre=tramos
+7.5.Incluya ahora los valores de las siguientes variables al finalizar la ejecución del archivo.
+7.6.Explique lo que se ha realizado y lo que se puede realizar al manipular el objeto requestdel createServer, que es una función del módulo HTTPde node.js
+
+a traves del ingreso de parametros en la zona de URL vemos que toma dichas caracteristicas para que esta las imprima en el html del proyecto a traves del archivo form 
+
+
+
+?arreglo_parametros:/?nombre=tramos
+?parametros: ?nombre
+?valores: tramos
+
+
+8.4.Todo código se puede optimizar. Indique como mejoraría esta función que permite retornar las variables de a URL.
+

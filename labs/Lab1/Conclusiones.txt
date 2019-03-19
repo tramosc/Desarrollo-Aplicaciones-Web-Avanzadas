@@ -1,0 +1,6 @@
+Conclusiones 
+-Aprendimos a como iniciar y configurar el entorno de node  por lo cual, se necesito tener node actualizado.
+-Aprednimos a cerca de lo facil que es montar un servidor a traves de un script desarrollado en java script junto con html.
+-Aprendimos sobre las caracteristicas que determinan la semejanza que tiene el programar en javascript en otros lengujes conocidos hasta el momento 
+-Aplicamos lo aprendido  en los otros semestres para realizar scripts basicos ya vistos en progrmamacion con java de la cual esta ves comprendimos su sintaxis en java script
+- Aprendimos como es que los errores se manifiestan en la consola del sistema y como ubicarlos y resolverlos.

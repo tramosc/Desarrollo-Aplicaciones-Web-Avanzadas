@@ -1,0 +1,40 @@
+3.4.Verifique la creación del archivo mencionado y adjunte una captura de su contenido.
+Ver: Imagenes/captura.jpg
+
+4.2.Verifiquemos  si  hay  algún  cambio  en  la  carpeta proyecto.  De  ser  así,  adjunte  una  captura de pantalla de lo que ha sucedido.
+Ver: Imagenes/antes_modificar.PNG
+
+
+4.4.Adjunte una captura del archivo package.json y explique lo que ha cambiado.
+Ver: Imagenes/modificado.PNG
+
+4.7.Ejecutemos el resultado e interpretemos lo obtenido.
+Ver: Imagenes/4.7.PNG
+
+4.9.Le solicitan crear un reporte para obtener  que personal  está  en  que cargo de  la compañía. Digite la siguiente función y ejecute el script.
+Ver: Imagenes/4.9.PNG
+
+4.10.A veces, solamente nos pedirán los nombres de los empleados.
+Ver: Imagenes/4.10.PNG
+
+4.12.Explique el resultado obtenido de la última función.
+Ver: Imagenes/4.12.PNG
+
+5.5.Adjunte  una  captura  del resultadoy  agregue  como  podría  mejorar  el  código  o  hacerlo  más funcional.
+Ver: Imagenes/5.5.PNG
+
+6.2.Ingrese a la página web de npm: https://www.npmjs.com/
+
+6.3.Proceda a crear una cuenta en npm. Ingrese los datos solicitados en el formulario.
+Pagina ya creada, Ver:Imagenes/Captura9.PNG
+
+
+6.5.Usamos el comando npm adduserpara poder validar nuestras credenciales en el proyecto que tenemos creado. Procedemos a ingresar la data que nos solicite.
+Ver: Imagenes/credenciales.PNG
+
+
+6.6.Para publicar un paquete en npm, basta con solicitarlo.
+Ver: Imagenes/publish.PNG
+
+
+
