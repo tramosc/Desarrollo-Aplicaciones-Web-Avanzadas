@@ -1,0 +1,56 @@
+1.7.Iniciemos  nuestro  servicio  y  veamos  el  resultado  del  mismo.  Adjunte  una captura  de  lo obtenido.
+imagen: Lab5/1.PNG
+2.5.Reinicie su servidor nodey actualice su navegador. La variable io declarada hacer un momento 
+corresponde  al  manejador  de  sockets  acoplado  a  nuestra  aplicación. Sobre  esta  variable 
+declararemos el evento “connection” que como indica su nombre, se disparará al momento de que 
+un    cliente    se    conecte    al    servicio.    Esto    lo    verificamos    con    la    
+línea que nos avisará de dicho evento. Así mismo, si  cerramos  el  navegador,  el  socket  se  
+cerrará  automáticamente  y  se  disparará  el  evento “disconnect” del socket iniciado. Agregue una 
+captura de lo mostrado en su consola después de estas pruebas.
+
+imagen: Lab5/2.5.PNG
+
+
+2.7.Reinicie el servidor y haga la prueba de enviar los datos del formulario. 
+Deberíamos ver una respuesta en la consola. Adjuntar captura.
+
+imagen: Lab5/2.6.PNG
+
+2.14.Así mismo, adjunte una captura de que dicho registro se haya almacenado en su base de datos.
+
+imagen: Lab5/base de datos.PNG
+imagen: Lab5/CapturaDB.PNG
+imagen: Lab5/2.14.PNG
+
+3.4.Reinicie el servidor  y  luego refresque  un  navegador  de  los dos abiertos.  Vea el resultado  y adjunte una captura.
+imagen: Lab5/3.4.PNG
+
+3.5.Ahora refresque el otro navegador y vea loque sucede en el primero de los dos navegadores. Describa lo sucedido.
+imagen: Lab5/3.5.PNG
+
+3.7.Reinicie el servidor  y  luego refresque  un  navegador  de  los dos abiertos.  Vea el resultado  y adjunte una captura.
+imagen: Lab5/3.7.PNG
+imagen: Lab5/3.7_2.PNG
+
+4.6. Reinicie su servidor node y refresque ambos navegadores. Verifique que al actualizar un
+registro esto se refleja en el otro navegador.
+imagen: Lab5/4.6.PNG
+
+1ro la ventana de lado izquierdo empieza con la accion y sucesivamente termina con la derecha
+
+5.5. Reinicie su servidor node y refresque ambos navegadores. Verifique que al eliminar un registro
+esto se refleja en el otro navegador.
+Secuencia:
+imagen: Lab5/5.5_1.PNG
+imagen: Lab5/5.5_2.PNG
+imagen: Lab5/5.5_3.PNG
+
+Acciones en la base de datos:
+imagen: Lab5/5.5_baseDatosInicial.PNG
+imagen: Lab5/5.5_baseDatosFinal.PNG
+
+
+
+
+
+

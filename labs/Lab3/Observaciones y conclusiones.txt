@@ -1,0 +1,22 @@
+Observaciones 
+
+- Observamos como se compone el entorno de express.
+- A traves del framework express, nosotros creamos un servidor improvisado.
+- Configuramos y realizamos desde cero como tambien el puerto de salida de nuestro servidor en express.
+- El entorno de desarrollo de Express incluye una instalación de Nodejs , el administrador de paquetes de NPM y 
+(opcionalmente) el Express Application Generator en su computadora local.
+- Hubo problemas con respecto a la extencion de firefox recomendada por el profesor por lo cual nosotros como una alternativa nosotros 
+usamos la aplicacion de postman.
+- Observamos la forma en que diferentes funciones de control de errores que nos brinda usar express como el 404 entre varios otros.
+
+
+Conclusiones 
+
+- Aprendimos a crear Puedes crear de forma sencilla un servidor web básico para responder cualquier 
+petición simplemente usando el paquete HTTP que nos ofrece node/express
+- Determinamos que Node y Express facilitan la configuración de su computadora para comenzar a desarrollar 
+aplicaciones web.
+- Aprendimos la variedad de herramientas y cvomandos de aqyuda que nos ofrece node/express 
+- Interpretamos la funcion del esquema recomendado por defecto por parte de express de lo cual este tiene como proposito 
+las principales acciones de un servidor web tales como GET, POST, PUT, entre varios otros.
+- Desarrollamos una landing page simple del cual nos servira en el futuro a adaptarnos a el entorno de node/express

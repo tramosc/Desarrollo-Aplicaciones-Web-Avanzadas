@@ -1,0 +1,20 @@
+2.6.Mostramos todas las opciones disponibles de express con el argumento –-help o -h
+imagen: lab3/lab03-h.PNG
+
+2.10.Si estas usando Windows, utiliza este:
+imagen: lab3/lab03_express.PNG
+
+2.21.Pruebe  la  carga  de  estos  archivos  accediendo  a  sus  URLs  respectivas.  Adjunte capturas de su verificación.
+imagen: lab3/lab03.PNG
+
+2.24.Adjunte capturas de la verificación de la existencia de los archivos.
+imagen: lab3/lab03_2.PNG
+
+2.13.Explica los cambios que se buscan al utilizar middlewares para capturar la misma URL pero con diferente método HTTP.
+
+El middleware abstrae de la complejidad y heterogeneidad de las redes de comunicaciones subyacentes, 
+así como de los sistemas operativos y lenguajes de programación, proporcionando una API para la fácil 
+programación y manejo de aplicaciones distribuidas. Dependiendo del problema a resolver y de las funciones
+ necesarias, serán útiles diferentes tipos de servicios de middleware. Por lo general el middleware del lado 
+cliente está implementado por el Sistema Operativo, el cual posee las bibliotecas que ejecutan todas las 
+funcionalidades para la comunicación a través de la red.
