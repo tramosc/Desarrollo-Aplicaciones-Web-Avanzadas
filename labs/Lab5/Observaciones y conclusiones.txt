@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Observaciones
 - Usamos MongoDB como parte de la implementacion del laboratorio ya que serviras para almacenar la informacion ingresada
 - Hicimos uso de lo realizado anteriormente para montar nuestro servidor 
@@ -13,4 +14,21 @@ Conclusiones
 - Implemenatamos las acciones CRUD en nuestra aplicacion web de lo cual nosotros a traves del laboratorio tenga acciones de crear, listar, actualizar y eliminar
 diversos datos almacenados en nuestra base de datos.
 - Atraves de la implemntacion basica de estas herramientas somos capaces de usar estas, de manera efectiva en nuestras paginas web de proposito administrativo con diversas acciones de 
+=======
+Observaciones
+- Usamos MongoDB como parte de la implementacion del laboratorio ya que serviras para almacenar la informacion ingresada
+- Hicimos uso de lo realizado anteriormente para montar nuestro servidor 
+- Aplicamos nuestro servidor de lo cual este sera implemetado para poder obtener informacion a traves de formularios
+- Observamos el comportamiento que tiene nuestro formulario si lo sometemos a diversas pestañas en un mismo servidor
+- Hicimos uso de herramientas de paginas web como bootstrap para la realizacion de este laboratorio.
+
+Conclusiones 
+
+- Aprendimos el funcionamiento de sockect.io a traves de la implementacion de herramientas tales como MongoDB.
+- Hicimos uso de MongoDB de lo cual este nos servira para almacenar informacion y futuramente otros ascpectos relacionados como CRUD en nuestros proyectos en express
+- Realizamos el control de ingreso a nuestro formulario de lo cual nos servira en caso de que nuestra aplicacion maneje el sistema de divetrsos usuarios
+- Implemenatamos las acciones CRUD en nuestra aplicacion web de lo cual nosotros a traves del laboratorio tenga acciones de crear, listar, actualizar y eliminar
+diversos datos almacenados en nuestra base de datos.
+- Atraves de la implemntacion basica de estas herramientas somos capaces de usar estas, de manera efectiva en nuestras paginas web de proposito administrativo con diversas acciones de 
+>>>>>>> 9d483a8fb5a8fb7a8910bfd1e0787c4e9d0d46c5
 notificacion y efectos de objetos.

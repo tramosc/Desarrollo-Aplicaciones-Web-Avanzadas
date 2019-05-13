@@ -32,6 +32,7 @@ imagen: Lab5/3.5.PNG
 imagen: Lab5/3.7.PNG
 imagen: Lab5/3.7_2.PNG
 
+<<<<<<< HEAD
 4.6. Reinicie su servidor node y refresque ambos navegadores. Verifique que al actualizar un
 registro esto se refleja en el otro navegador.
 imagen: Lab5/4.6.PNG
@@ -53,4 +54,6 @@ imagen: Lab5/5.5_baseDatosFinal.PNG
 
 
 
+=======
+>>>>>>> 9d483a8fb5a8fb7a8910bfd1e0787c4e9d0d46c5
 
