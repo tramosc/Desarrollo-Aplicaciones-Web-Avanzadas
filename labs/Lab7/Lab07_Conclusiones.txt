@@ -1,0 +1,19 @@
+
+CONCLUSIONES:
+
+- React-bootstrap reemplaza el javascript de Bootstrap.Cada componente se ha creado 
+desde cero como un verdadero componente React, sin dependencias innecesarias como jQuery.
+
+- React es sin duda la librería de moda en el mundo del desarrollo web Front-End. Vimos a traves del laboratorio de
+que este se basa mucho en JavaScript y ECMAScript y utiliza un DOM Virtual para conseguir un altísimo rendimiento.
+
+- Al contrario que Angular o VUE.js, no se trata de un framework que abarque todo el ciclo de desarrollo 
+y la arquitectura de una aplicación web, sino que se especializa en una sola cosa (la UI) y lo hace muy bien.
+
+- Al basarse en componentes reutilizables, existen multitud de bibliotecas de componentes y extensiones 
+listas para utilizar que nos pueden ahorrar mucho trabajo a la hora de crear interfaces de usuario Web 
+basadas en React.
+
+- A traves de lo realizado en este laboratorio vimos una forma sencilla de emplear react-Bootstrap del cual a 
+traves del desarrollo de este laboratorio vimos lo sencillo y entendible que es aplicarlo ya solo se necesita 
+de conocimientos de programacion web regulares para entender la estructura de cada elementos de una pagina web.
