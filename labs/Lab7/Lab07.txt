@@ -1,0 +1,25 @@
+1.9. Si todo ha ido bien, deberemos tener una vista como la siguiente.
+imagen:/Capturas del entorno web - Laboratorio/1.9_1.PNG
+imagen:/Capturas del entorno web - Laboratorio/1.9_2.PNG
+
+2.4. La vista obtenida aún puede ser mejorada.
+
+imagen:/Capturas_del_entorno_web-Laboratorio/2.4_1.PNG
+imagen:/Capturas_del_entorno_web-Laboratorio/2.4_2.PNG
+imagen:/Capturas_del_entorno_web-Laboratorio/2.4_3.PNG
+imagen:/Capturas_del_entorno_web-Laboratorio/2.4_4.PNG
+
+4.5. Finalmente, necesitaremos una ruta para eliminar nuestra sesión (cerrarla) 
+  por lo que llamaremos a una ruta logout. En este caso, no necesitamos una vista, 
+  simplemente eliminar nuestro localStorage y luego redirigirnos a algún lugar, por 
+  lo que modificaremos la importación de nuestro archivo App.js para que incluya Redirect, 
+  y agregaremos la ruta logout
+
+
+imagen:/Capturas_del_entorno_web-Laboratorio/4.5_1.PNG
+
+Probando el Login con BD
+
+imagen:/Capturas_del_entorno_web-Laboratorio/Login_1.PNG
+imagen:/Capturas_del_entorno_web-Laboratorio/Login_2.PNG
+

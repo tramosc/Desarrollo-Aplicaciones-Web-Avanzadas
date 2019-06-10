@@ -6,6 +6,7 @@ import Details from './views/Details';
 import Login from './views/Login';
 import Layout from './hoc/Layout/Layout';
 import Welcome from './views/welcome';
+import Chat from './views/Chat/Chat';
 import NotFound from './views/NotFound';
 
 class App extends Component {
@@ -14,10 +15,11 @@ class App extends Component {
     <BrowserRouter>
       <Layout>
           <Switch>
-            <Route path='/' exact component={Home} />
-            <Route path='/details' exact component={Details} />
-            <Route path='/login' exact component={Login} />
-            <Route path='/welcome' exact component={Welcome} />
+            <Route path="/" exact component={Home} />
+            <Route path="/details" component={Details} />
+            <Route path="/login" component={Login} />
+            <Route path="/welcome" component={Welcome} />
+            <Route path="/chat" component={Chat} />
             <Route
               path="/logout"
               render={() => {

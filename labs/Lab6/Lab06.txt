@@ -1,0 +1,11 @@
+1.4. Al ejecutar npm start deberemos ver nuestro mensaje en la consola.
+imagen: /imagenes/1.PNG
+
+2.4. En la parte del protocolo, lo dejaremos por defecto con GET y pondremos la siguiente URL para testear.
+imagen: /imagenes/2.PNG
+
+Proyecto funcionando:
+imagen: /imagenes/login1.PNG
+imagen: /imagenes/login funcionando.PNG
+
+ 

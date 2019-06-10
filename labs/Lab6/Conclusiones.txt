@@ -1,0 +1,10 @@
+CONCLUSIONES
+
+- Socket.IO es una biblioteca que permite la comunicación en tiempo real, bidireccional y basada 
+ en eventos entre el navegador y el servidor.
+- Socket.IO permite la comunicación en tiempo real, bidireccional y basada en eventos.
+- Mongoose proporciona una solución directa y basada en esquemas para modelar los datos de su aplicación. 
+- Aplicando Mongoose incluye conversión de tipos incorporada, validación, creación de consultas, enlaces 
+ de lógica de negocios y más.
+- Mongoose almacena todos los comandos hasta que se conecta a la base de datos.Esto significa que no 
+ tiene que esperar hasta que se conecte a MongoDB para definir modelos, ejecutar consultas, etc.
