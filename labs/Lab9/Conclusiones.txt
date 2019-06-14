@@ -1,0 +1,16 @@
+CONCLUSIONES
+
+- A traves del desarrollo del laboratorio vimos diferentes formas de exportar y usardiversos objetos tales como spinners
+ a traves del uso de paginas web que ofrecen estos objetos de forma gratuita como de paga.
+
+- Como tambien agreganos elementos extra as nuestro proyecto como en este caso subpaginas que contienetanto vistas o formularios simples de
+ lo cual es lo ideal para poder probar la implementacion de spinner
+
+- Para que la aplicacion funcione en todo momento en este caso es necesario que nosotros siempre estemos conectados 
+a una señal de internet ya que el usar este tipo de complementos u objetos requieren que estes conectado a internet.
+
+- Aprendimos la mecanica y la forma en la que podemos llaamr estos elementos spinner a traves del uso de la pagina
+ https://loading.io/css/
+
+- Modificamos la pagina para comprobar que el uso de estos spinners sea efectivo ya que el implementar estos oibjetos es fundamental para que nuestros
+ proyectos en relacionados al entorno web sean de un aspecto y desempeño mas profesional.

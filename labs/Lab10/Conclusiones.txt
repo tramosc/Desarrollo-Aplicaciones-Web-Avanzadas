@@ -1,0 +1,17 @@
+CONCLUSIONES
+
+- Redux es un contenedor predecible del estado de aplicaciones JavaScript.
+
+- Nos ayudara a escribir aplicaciones que se comportan de manera consistente, 
+ corren en distintos ambientes (cliente, servidor y nativo), y son fáciles de probar.
+
+- Redux es una librería ligera, de apenas 2 KB de peso, por lo que no resulta ligera 
+ también para su ejecución por el motor de Javascript. Su comunidad es muy amplia y ha 
+ sido adoptado con éxito por grandes empresas como Netflix.
+
+- Cuando la aplicación es compleja es normal que el estado también lo sea y si muchos 
+ componentes o piezas de software lo manipulan es normal que llegue un momento en el 
+ que se pierde el control sobre el "cuándo, el por qué y cómo" se ha llegado al estado actual.
+
+- Redux se encarga en cierta manera de desacoplar el estado global de una aplicación web 
+ (en Front-End) de la parte visual, es decir los componentes.

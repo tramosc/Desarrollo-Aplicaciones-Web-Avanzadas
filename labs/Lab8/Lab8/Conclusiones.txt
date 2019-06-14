@@ -1,0 +1,16 @@
+CONCLUSIONES
+- Bootstrap es un conjunto de herramientas de código abierto para desarrollar con HTML, CSS y JS. 
+
+- Bootstrap, es un framework originalmente creado por Twitter, que permite crear interfaces web con CSS 
+y JavaScript, cuya particularidad es la de adaptar la interfaz del sitio web al tamaño del dispositivo en 
+que se visualice. Es decir, el sitio web se adapta automáticamente al tamaño de una PC, una Tablet u otro dispositivo.
+
+- Este Framework te abstrae de tener que preocuparte por las media queries y los porcentajes en tus CSS para hacer 
+una web Responsive, facilitando la programación del site. Además, se basa en la simplicidad de sus interfaces, 
+lo cual es una tendencia del mercado, en las que tiende a diseño plano, botones grandes, etc.
+
+- Una forma de personalizar el deploy a Now.sh es usando un archivo JSON, dicho archivo debe tener por nombre now.json.
+
+- Con lo desarrollado en este laboratorio procedimos a desarrolar el sistema de chat usando dos pestañas del navegador de manera
+simultanea como tambien llamamos todo tipo de elemntos extra a nuestra aplicacion como avatarde perfil de chats para que nuestro
+proyecto tome un aspecto mas profesional-
