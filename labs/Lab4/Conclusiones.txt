@@ -1,0 +1,15 @@
+CONCLUSIONES
+
+- MongoDB creará la base de datos si no existe, y establecerá una conexión con ella.
+
+- MongoDB es una de las bases de datos no relacionales más utilizadas en la actualidad
+
+- Toda aplicación necesita un lugar donde almacenar sus datos, para esto existen múltiples 
+opciones, entre las más populares están las bases de datos relacionales como Mysql, Postgres, 
+Oracle, etc, por otro lado también hay otro grupo de base de datos no relaciones o NoSQL. 
+
+- Mongoose es un módulo de terceros que podemos encontrarlo en el repositorio de npm y que nos va a 
+permitir realizar la conexión entre Node.js y MongoDB.
+
+- La configuración es relativamente sencilla, al inicio puede que sea un poco confuso y esto 
+depende de acuerdo a como tengan organizado su proyecto en Node
